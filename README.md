@@ -1,4 +1,4 @@
-This project focuses on Face Recognition as a Computer Vision deep learning problem. Face Recognition involves identifying or verifying individuals from digital images or video frames. The project will explore different Siamese models for face recognition tasks.
+This is the 5th project in Diploma in AI, focuses on Face Recognition as a Computer Vision deep learning problem. Face Recognition involves identifying or verifying individuals from digital images or video frames. The project will explore different Siamese models for face recognition tasks.
 
 By implementing and comparing various Siamese architectures, participants will understand how Siamese networks learn to compute similarity between pairs of images. They will explore the use of contrastive and triplet loss functions to train Siamese models effectively for face recognition tasks, considering factors such as pose variation, illumination changes, and occlusions.
 
